@@ -1,0 +1,15 @@
+ pupil's marks were wrongly entered as 83 instead of 63. Due to that the average marks for the class got increased by half (1/2). The number of pupils in the class is:
+[A].	10
+[B].	20
+[C].	40	
+[D].	73
+Answer: Option C
+
+Explanation:
+
+Let there be x pupils in the class.
+
+Total increase in marks =		x x	1		=	x
+                                2	    2
+	x	= (83 - 63)   	x	= 20      x= 40.
+  2	                2
