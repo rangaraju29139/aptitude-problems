@@ -1,0 +1,18 @@
+ 	
+A library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is:
+A.	250
+B.	276
+C.	280
+D.	285
+Answer: Option D
+
+Explanation:
+
+Since the month begins with a Sunday, to there will be five Sundays in the month.
+
+Required average	
+=		(510 x 5 + 240 x 25)	/30
+          
+=	8550/30
+
+= 285
